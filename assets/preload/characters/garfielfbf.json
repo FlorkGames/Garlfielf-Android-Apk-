@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "BF idle dance"
+		},
+		{
+			"offsets": [
+				17,
+				-8
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "BF NOTE LEFT instance 1"
+		},
+		{
+			"offsets": [
+				-40,
+				-20
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "BF NOTE DOWN instance 1"
+		},
+		{
+			"offsets": [
+				-78,
+				-7
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "BF NOTE RIGHT instance 1"
+		},
+		{
+			"offsets": [
+				1,
+				127
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "BF NOTE UP instance 1"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/garfielfbf",
+	"position": [
+		0,
+		330
+	],
+	"healthicon": "garfielfbf",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		162,
+		232
+	],
+	"camera_position": [
+		10,
+		-20
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,78 @@
+{
+  "animations": [
+    {
+      "loop": false,
+      "offsets": [
+        -5,
+        -90
+      ],
+      "anim": "idle",
+      "fps": 24,
+      "name": "idle instance 1",
+      "indices": []
+    },
+    {
+      "loop": false,
+      "offsets": [
+        42,
+        -67
+      ],
+      "anim": "singLEFT",
+      "fps": 24,
+      "name": "left instance 1",
+      "indices": []
+    },
+    {
+      "loop": false,
+      "offsets": [
+        20,
+        -88
+      ],
+      "anim": "singDOWN",
+      "fps": 24,
+      "name": "down instance 1",
+      "indices": []
+    },
+    {
+      "loop": false,
+      "offsets": [
+        -31,
+        -11
+      ],
+      "anim": "singUP",
+      "fps": 24,
+      "name": "up instance 1",
+      "indices": []
+    },
+    {
+      "loop": false,
+      "offsets": [
+        12,
+        -77
+      ],
+      "anim": "singRIGHT",
+      "fps": 24,
+      "name": "right instance 1",
+      "indices": []
+    }
+  ],
+  "no_antialiasing": false,
+  "image": "characters/GARFIELFNEW",
+  "position": [
+    -100,
+    320
+  ],
+  "healthicon": "garfielf",
+  "flip_x": false,
+  "healthbar_colors": [
+    255,
+    127,
+    39
+  ],
+  "camera_position": [
+    0,
+    20
+  ],
+  "sing_duration": 4,
+  "scale": 2
+}
