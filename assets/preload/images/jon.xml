@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="jon.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="jon instance 10000" x="0" y="0" width="394" height="655" frameX="0" frameY="-46" frameWidth="394" frameHeight="701"/>
+	<SubTexture name="jon instance 10001" x="0" y="0" width="394" height="655" frameX="0" frameY="-46" frameWidth="394" frameHeight="701"/>
+	<SubTexture name="jon instance 10002" x="394" y="0" width="371" height="691" frameX="-8" frameY="-10" frameWidth="394" frameHeight="701"/>
+	<SubTexture name="jon instance 10003" x="394" y="0" width="371" height="691" frameX="-8" frameY="-10" frameWidth="394" frameHeight="701"/>
+	<SubTexture name="jon instance 10004" x="765" y="0" width="353" height="701" frameX="-11" frameY="0" frameWidth="394" frameHeight="701"/>
+	<SubTexture name="jon instance 10005" x="765" y="0" width="353" height="701" frameX="-11" frameY="0" frameWidth="394" frameHeight="701"/>
+	<SubTexture name="jon instance 10006" x="1118" y="0" width="344" height="701" frameX="-11" frameY="0" frameWidth="394" frameHeight="701"/>
+	<SubTexture name="jon instance 10007" x="1118" y="0" width="344" height="701" frameX="-11" frameY="0" frameWidth="394" frameHeight="701"/>
+	<SubTexture name="jon instance 10008" x="1462" y="0" width="342" height="701" frameX="-11" frameY="0" frameWidth="394" frameHeight="701"/>
+	<SubTexture name="jon instance 10009" x="1462" y="0" width="342" height="701" frameX="-11" frameY="0" frameWidth="394" frameHeight="701"/>
+	<SubTexture name="jon instance 10010" x="1462" y="0" width="342" height="701" frameX="-11" frameY="0" frameWidth="394" frameHeight="701"/>
+	<SubTexture name="jon instance 10011" x="1462" y="0" width="342" height="701" frameX="-11" frameY="0" frameWidth="394" frameHeight="701"/>
+	<SubTexture name="jon instance 10012" x="1462" y="0" width="342" height="701" frameX="-11" frameY="0" frameWidth="394" frameHeight="701"/>
+	<SubTexture name="jon instance 10013" x="1462" y="0" width="342" height="701" frameX="-11" frameY="0" frameWidth="394" frameHeight="701"/>
+</TextureAtlas>
